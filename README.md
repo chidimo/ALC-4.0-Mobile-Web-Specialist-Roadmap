@@ -66,4 +66,8 @@ MWS: Expert on 2 track-specific skill IQ scores (HTML5, CSS, and JavaScript) or 
 
 ### Requirements
 
+Here the requirements vary based on which track an individual is placed in. This can be found in the email sent to the user.
+
 Complete all course in the `Foundation track` by the 27th, October 2019
+
+Foundation web track Facebook Link <https://www.facebook.com/groups/foundationwebtrackDevCtrainingwithAndela/learning_content/>
